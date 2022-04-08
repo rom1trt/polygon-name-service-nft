@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Clone the repository
-2. Install NPM (Node Package Manager)
+2. `npm install` to install NPM (Node Package Manager)
 3. `cd website`
 4. `npm start` to run locally (local host)
 5. Browse `https://polygon-name-service-nft.vercel.app/` to access the webapp

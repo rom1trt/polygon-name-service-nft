@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repository
+1. `git clone https://github.com/rom1trt/polygon-name-service-nft.git` to clone the repository
 2. `npm install` to install NPM (Node Package Manager)
 3. `cd website`
 4. `npm start` to run locally (local host)

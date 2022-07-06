@@ -54,7 +54,6 @@ You can browses minted NFTs on [opensea](https://testnets.opensea.io/collection/
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Solidity](https://www.solidity.io/)
 * [Javascript](https://www.javascript.com/)
 * [Ethers.js](https://docs.ethers.io/v5/)

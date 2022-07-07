@@ -54,17 +54,17 @@ You can browses minted NFTs on [opensea](https://testnets.opensea.io/collection/
 
 ### Built With
 
-* [Solidity](https://www.solidity.io/)
-* [Javascript](https://www.javascript.com/)
-* [Ethers.js](https://docs.ethers.io/v5/)
-* [Buildspace](https://buildspace.so/)
-* [Youtube](https://www.youtube.com)
+* [![Solidity](https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=white)](https://www.solidity.io/)
+* [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+* [![Buildspace](https://img.shields.io/badge/buildspace-purple?style=for-the-badge&logo=buildspace&logoColor=black)](https://buildspace.so/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+### Click on [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](polygon-name-service-nft.vercel.app) to launch website
 
 ### Installation
 
@@ -73,6 +73,8 @@ To get a local copy up and running follow these simple example steps.
 3. `cd website`
 4. `npm start` to run locally (local host)
 5. Browse `https://polygon-name-service-nft.vercel.app/` to access the webapp
+
+### Click on [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](polygon-name-service-nft.vercel.app) to launch frontend
 
 ### Features
 
